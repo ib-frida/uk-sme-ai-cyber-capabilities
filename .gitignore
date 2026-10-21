@@ -1,0 +1,17 @@
+# Generated outputs
+out/
+figures/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Source data (download from ONS/DSIT, see data/README.md)
+data/*.xlsx
